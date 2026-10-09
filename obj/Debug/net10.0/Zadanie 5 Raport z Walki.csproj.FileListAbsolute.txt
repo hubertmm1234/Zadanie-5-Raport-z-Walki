@@ -1,0 +1,14 @@
+C:\Users\s37530\RiderProjects\Zadanie 5 Raport z Walki\Zadanie 5 Raport z Walki\bin\Debug\net10.0\Zadanie 5 Raport z Walki.exe
+C:\Users\s37530\RiderProjects\Zadanie 5 Raport z Walki\Zadanie 5 Raport z Walki\bin\Debug\net10.0\Zadanie 5 Raport z Walki.deps.json
+C:\Users\s37530\RiderProjects\Zadanie 5 Raport z Walki\Zadanie 5 Raport z Walki\bin\Debug\net10.0\Zadanie 5 Raport z Walki.runtimeconfig.json
+C:\Users\s37530\RiderProjects\Zadanie 5 Raport z Walki\Zadanie 5 Raport z Walki\bin\Debug\net10.0\Zadanie 5 Raport z Walki.dll
+C:\Users\s37530\RiderProjects\Zadanie 5 Raport z Walki\Zadanie 5 Raport z Walki\bin\Debug\net10.0\Zadanie 5 Raport z Walki.pdb
+C:\Users\s37530\RiderProjects\Zadanie 5 Raport z Walki\Zadanie 5 Raport z Walki\obj\Debug\net10.0\Zadanie 5 Raport z Walki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37530\RiderProjects\Zadanie 5 Raport z Walki\Zadanie 5 Raport z Walki\obj\Debug\net10.0\Zadanie 5 Raport z Walki.AssemblyInfoInputs.cache
+C:\Users\s37530\RiderProjects\Zadanie 5 Raport z Walki\Zadanie 5 Raport z Walki\obj\Debug\net10.0\Zadanie 5 Raport z Walki.AssemblyInfo.cs
+C:\Users\s37530\RiderProjects\Zadanie 5 Raport z Walki\Zadanie 5 Raport z Walki\obj\Debug\net10.0\Zadanie 5 Raport z Walki.csproj.CoreCompileInputs.cache
+C:\Users\s37530\RiderProjects\Zadanie 5 Raport z Walki\Zadanie 5 Raport z Walki\obj\Debug\net10.0\Zadanie 5 Raport z Walki.dll
+C:\Users\s37530\RiderProjects\Zadanie 5 Raport z Walki\Zadanie 5 Raport z Walki\obj\Debug\net10.0\refint\Zadanie 5 Raport z Walki.dll
+C:\Users\s37530\RiderProjects\Zadanie 5 Raport z Walki\Zadanie 5 Raport z Walki\obj\Debug\net10.0\Zadanie 5 Raport z Walki.pdb
+C:\Users\s37530\RiderProjects\Zadanie 5 Raport z Walki\Zadanie 5 Raport z Walki\obj\Debug\net10.0\Zadanie 5 Raport z Walki.genruntimeconfig.cache
+C:\Users\s37530\RiderProjects\Zadanie 5 Raport z Walki\Zadanie 5 Raport z Walki\obj\Debug\net10.0\ref\Zadanie 5 Raport z Walki.dll
